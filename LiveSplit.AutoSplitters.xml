@@ -2051,4 +2051,16 @@
     <Description>Load Removal is available. (By 0Seren)</Description>
     <Website>https://github.com/0Seren/AutoSplitters/tree/master/Shade</Website>
   </Autosplitter>
+	 <AutoSplitter>
+    <Games>
+      <Game>Republic Commando</Game>
+      <Game>Star Wars: Republic Commando</Game>
+	    <Game>SW:RC</Game>
+    </Games>
+    <URLs>
+      <URL>https://github.com/RedMage08/swrcasl/blob/master/SWRC.ASL</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available (by RedMage08)</Description>
+</AutoSplitter>
 </AutoSplitters>
